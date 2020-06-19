@@ -1,4 +1,6 @@
-## Welcome to Varus's Pages
+## My name is Rustam - I try to change the world around me for the best!
+
+Welcome to my Page!
 
 You can use the [editor on GitHub](https://github.com/varusvar/varus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
